@@ -1,6 +1,0 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-#include "GameProject_P.h"
-#include "Modules/ModuleManager.h"
-
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, GameProject_P, "GameProject_P" );
