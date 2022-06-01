@@ -1,7 +1,7 @@
 # Large-sized sources except folders
-Content/Sources/*
-Content/Sources/*/*.*
-!.gitkeep
+Content/Sources/
+Content/Sources/*/
+!.gitignore
 
 # Visual Studio 2015 user specific files
 .vs/
