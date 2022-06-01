@@ -1,7 +1,8 @@
+
 # Large-sized sources except folders
-Content/Sources/*/
-Content/Sources/*.*
-!*.gitkeep
+!.gitkeep
+Content/Sources/Ultimate_Traversal_Anims/
+
 
 # Visual Studio 2015 user specific files
 .vs/
