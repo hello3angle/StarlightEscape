@@ -1,5 +1,6 @@
 # Large-sized sources except folders
-Content/Sources/
+Content/Sources/*/
+Content/Sources/*/*.*
 !.gitkeep
 
 # Visual Studio 2015 user specific files
