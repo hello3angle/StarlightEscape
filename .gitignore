@@ -1,3 +1,6 @@
+# Clone foler for testing before merge
+Clone/
+
 # Large-sized sources except for folders
 Content/Sources/*
 
