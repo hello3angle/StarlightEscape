@@ -2,7 +2,8 @@
 Clone/
 
 # Large-sized sources except for folders
-Content/Sources/*
+Content/Sources/
+Content/StarterContent/
 
 # Visual Studio 2015 user specific files
 .vs/
