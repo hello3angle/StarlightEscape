@@ -1,4 +1,7 @@
-# Clone foler for testing before merge
+# Package folder
+Package/
+
+# Clone folder for testing before merge
 Clone/
 
 # Large-sized sources except for folders
