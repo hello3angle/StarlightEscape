@@ -7,6 +7,11 @@ Clone/
 # Large-sized sources except for folders
 Content/Sources/
 Content/StarterContent/
+Content/SpaceshipInterior/
+Content/ModSci_Engineer/
+Content/ModSci_EngiProps/
+Content/ModSciInteriors/
+Content/StarterBundle/
 
 # Visual Studio 2015 user specific files
 .vs/
