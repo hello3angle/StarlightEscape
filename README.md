@@ -1,5 +1,5 @@
 # Starlight Escape
----
+
 ### Objectives
 - Full Gamedev Project
 - Duration: 12 weeks (06/2022 - 08/2022)
@@ -11,11 +11,6 @@
 - Game Engine: Unreal Engine 5 (Blueprint)
 - Platform: Windows
 
-
-### Gameplay
-Jump, dash, slide and run through a space station, on your way out avoiding harzards and the harsh vacuume of space.
-https://pheonix412.itch.io/starlight-escape
-
 ### System
 - Directional actions; jump and double jump, dash, crouch, slide
 - Platforms; moving, lift, folding, breaking
@@ -24,3 +19,11 @@ https://pheonix412.itch.io/starlight-escape
 - Dynamic VFX
   - Material; death & respawn, breaking, laser, decals
   - Niagara; asteroid, explosion
+
+---
+### Gameplay
+Jump, dash, slide and run through a space station, on your way out avoiding harzards and the harsh vacuume of space.
+https://pheonix412.itch.io/starlight-escape
+
+### Demo Video
+https://youtu.be/oFoFKrfUNUQ?list=PL09MNyNTfbuD0FTLwrqWfrz5H2nVY7At2
