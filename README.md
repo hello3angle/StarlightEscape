@@ -8,7 +8,9 @@ Duration: 12 weeks (06/2022 - 08/2022)
 ### Overview
 Team: Jake Jin and Rhys Baker
 Genre: 3D Third Person Platformer
+Game Engine: Unreal Engine 5 (Blueprint)
 Platform: Windows
+
 
 ### Gameplay
 Jump, dash, slide and run through a space station, on your way out avoiding harzards and the harsh vacuume of space.
