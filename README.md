@@ -1,15 +1,15 @@
 # Starlight Escape
 ---
 ### Objectives
-Full Gamedev Project
-Duration: 12 weeks (06/2022 - 08/2022)
-- Design, Development, Publish, Presentation
+- Full Gamedev Project
+- Duration: 12 weeks (06/2022 - 08/2022)
+  - Design, Development, Publish, Presentation
 
 ### Overview
-Team: Jake Jin and Rhys Baker
-Genre: 3D Third Person Platformer
-Game Engine: Unreal Engine 5 (Blueprint)
-Platform: Windows
+- Team: Jake Jin and Rhys Baker
+- Genre: 3D Third Person Platformer
+- Game Engine: Unreal Engine 5 (Blueprint)
+- Platform: Windows
 
 
 ### Gameplay
