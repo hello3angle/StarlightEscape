@@ -23,7 +23,8 @@
 ---
 ### Gameplay
 Jump, dash, slide and run through a space station, on your way out avoiding harzards and the harsh vacuume of space.
-https://pheonix412.itch.io/starlight-escape
+
+[Gameplay](https://pheonix412.itch.io/starlight-escape)
 
 ### Demo Video
-https://youtu.be/oFoFKrfUNUQ?list=PL09MNyNTfbuD0FTLwrqWfrz5H2nVY7At2
+[Prototype #1](https://youtu.be/oFoFKrfUNUQ?list=PL09MNyNTfbuD0FTLwrqWfrz5H2nVY7At2)
